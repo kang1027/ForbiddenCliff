@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - notWall
+  - Sweat
+  - NextScene
+  - Enemy
+  - Enemy2
+  - Gem
+  - ChangeBGM
+  - ExitBlock2
+  - Button0
+  - Button1
+  - Button2
+  - ExitBlock0
+  - ExitBlock1
+  - Menu_AM
+  - DestroyCloud
+  - GameClear
+  - Stone
+  - DestroyStonePos
+  - Minimap
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
