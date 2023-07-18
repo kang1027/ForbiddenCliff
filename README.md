@@ -3,6 +3,10 @@
 The Unity Flatformer game Forbidden Cliff, which was created in the second year of high school, was created by adding a mobile version + multi-function.<br>
 Fixed as much inconvenience as possible when playing in the existing Forbidden Cliff..<br>
 
+# How to play
+[금지된+절벽+how+to+play.hwp.pdf](https://github.com/kang1027/ForbiddenCliff/files/12081605/%2B.%2Bhow%2Bto%2Bplay.hwp.pdf)
+
+
 #  Function
  I used photon server was designed to allow two players to compete in multiple ways.<br>
  In the second year of high school, the foundation itself was developed hard to maintain, so there are still many bugs left.
@@ -13,3 +17,4 @@ The scaffolding and the wall used Free Asset.
 
 # To-much
 If you want to playing this game, serching 'forbidden cliff' in google play store.
+
