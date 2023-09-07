@@ -15,6 +15,6 @@ Fixed as much inconvenience as possible when playing in the existing Forbidden C
 The background of the map and the objects under the character are hand-made by the team's designer.
 The scaffolding and the wall used Free Asset.
 
-# Too-much
+# More Info
 If you want to playing this game, serching 'forbidden cliff' in google play store.
 [Forbidden+Cliff.hwp.pdf](https://github.com/kang1027/ForbiddenCliff/files/12081688/Forbidden%2BCliff.hwp.pdf)
